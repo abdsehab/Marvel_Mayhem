@@ -1,0 +1,48 @@
+﻿Build started 9/25/2025 9:07:45 PM.
+     1>Project "F:\New folder (2)\Marvel_Mayhem_-_Final[1]\Marvel Mayhem - Final\Marvel Mayhem\Marvel Mayhem\Marvel Mayhem.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(333): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(334): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(335): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(336): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(337): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(340): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(341): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(342): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(343): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(344): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(347): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(348): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(349): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(350): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(351): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(354): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(355): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(356): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(357): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(358): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(377): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(378): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(379): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(380): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(381): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(385): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(386): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(387): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(388): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>f:\new folder (2)\marvel_mayhem_-_final[1]\marvel mayhem - final\marvel mayhem\marvel mayhem\imain.cpp(389): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\New folder (2)\Marvel_Mayhem_-_Final[1]\Marvel Mayhem - Final\Marvel Mayhem\Debug\Marvel Mayhem.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\New folder (2)\Marvel_Mayhem_-_Final[1]\Marvel Mayhem - Final\Marvel Mayhem\Debug\Marvel Mayhem.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\New folder (2)\Marvel_Mayhem_-_Final[1]\Marvel Mayhem - Final\Marvel Mayhem\Debug\Marvel Mayhem.lib" /MACHINE:X86 Debug\iMain.obj
+         Glaux.lib
+         GLU32.LIB
+         glui32.lib
+         glut32.lib
+         OPENGL32.LIB
+         Marvel Mayhem.vcxproj -> F:\New folder (2)\Marvel_Mayhem_-_Final[1]\Marvel Mayhem - Final\Marvel Mayhem\Debug\Marvel Mayhem.exe
+     1>Done Building Project "F:\New folder (2)\Marvel_Mayhem_-_Final[1]\Marvel Mayhem - Final\Marvel Mayhem\Marvel Mayhem\Marvel Mayhem.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.05
