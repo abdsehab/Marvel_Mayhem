@@ -61,22 +61,23 @@ Open the project in Visual Studio 2013
 
 ## Project Contributors
 
-1. Sehab
-2. Samim
-3. Tawhid
+1. Sehab   [Facebook](https://www.facebook.com/sehabAmrBaap)
+2. Samim  [Facebook](https://www.facebook.com/sadnan08/)
+3. Tawhid [Facebook](https://www.facebook.com/maruf.tawhid.98#)
 
 
 
 ## Screenshots
 
+
 ### **Menu**
-<img src="https://github.com/user-attachments/assets/812b978b-b4f9-4cc2-8116-067f85e943bd" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/e2d8fe54-26be-4414-b0e6-e136a15a5699" width="1280" height="720">
 
 ### **Character**
-<img src="https://github.com/user-attachments/assets/5c8a5fbb-6ebf-48cd-bff0-8235e79d9773" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/d20f1eda-293a-4ff3-a368-ac695d5b6c1d" width="1280" height="720">
 
 ## Youtube Link
-[CSE 1200 Project: The Fallen Kingdom](https://www.youtube.com/)
+[CSE 1200 Project: Marvel Mayhem](https://youtu.be/sccg3J7Z4Ks)
 
 ## Project Report
-[Project Report: The Fallen Kingdom](ht
+[Project Report: Marvel Mayhem](ht
